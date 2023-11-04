@@ -1,0 +1,112 @@
+/* Стили для поля ввода */
+#user-input {
+  padding: 10px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Стили для кнопки */
+#submit-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Стили для вывода ответов */
+#output {
+  margin-top: 10px;
+  font-size: 18px;
+}
+/* Styles for the user input field */
+#user-input {
+  padding: 10px;
+  width: 300px;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+}
+
+/* Styles for the submit button */
+#submit-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  outline: none;
+}
+
+/* Styles for the output */
+#output {
+  margin-top: 10px;
+  font-size: 18px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  min-height: 100px;
+}
+
+/* Style for the "Скажи время" button */
+#time-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+/* Style for search input and button */
+#search-input {
+  padding: 10px;
+  width: 300px;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 10px;
+  outline: none;
+}
+
+#search-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+/* Style for search results */
+#search-results {
+  margin-top: 10px;
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  min-height: 100px;
+}
+h1{
+  text-align: center;
+  z-index: auto;
+opacity: 0.8;
+font-weight: bold;
+font-size: 40px;
+color: black;
+}
